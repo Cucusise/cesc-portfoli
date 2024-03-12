@@ -1,0 +1,174 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: rgb(227, 227, 227);
+    font-family: 'Roboto', sans-serif;
+}
+
+body{
+    background-color: #424769;
+}
+
+
+.user{
+    width: 20%;
+    margin: auto;
+    display: block;
+    text-align: right;
+    border: 5px solid black;
+    border-radius: 360px;
+    background-color: #c8c8c8;
+    box-shadow: 30px 30px 30px #2D3250 ;
+
+}
+
+.title{
+    margin-top: 25px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.subtitle{
+    text-align: center  ;
+    font-family: 'Roboto', sans-serif; 
+    margin: 10px 0 50px 0;
+}
+
+
+.footer{
+    position: relative;
+    bottom: 0;
+    display: block;
+    width: 100%;
+    height: 250px;
+    background-color: #2D3250;
+    padding: 10px;
+    border-top: 2.5px solid black;
+}
+
+.CP{
+    margin: 25px 10px 5px 100px;
+    border: 2px solid black;
+    display: inline-block;
+    text-align: center;
+    background-color: #424769 ;
+    padding: 15px;
+}
+
+.CCP{
+    margin: 25px 10px 5px 300px;
+    border: 2px solid black;
+    display: inline-block;
+    text-align: center;
+    background-color: #424769;
+    padding: 15px;
+}
+
+.iespacio{
+    margin: 10px;
+    display: inline;
+    
+}
+
+.PersonalC{
+    margin: 25px;
+    display: inline;
+}
+
+.CPt{
+    font-size: 50px;
+}
+
+.Fmail, .Fphone{
+    display: block;
+    margin-bottom: 10px;
+}
+
+
+.CentroC{
+    margin: 25px 10px 25px 25px;
+    display: inline;
+    
+}
+
+.CCt{
+    font-size: 50px;
+}
+
+.projectes{
+    margin: 25px 0 25px 0;
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+}
+
+.content-embed{
+    text-align: center;
+    padding: 20px;
+    background-color: #7077A1;
+    height: 700px;
+    width: 450px;
+    margin: 25px 10px 20px 10px;
+    border: 2.5px black solid;
+    display: inline-block;
+    border-radius: 10px;
+    box-shadow: 30px 30px 30px #2D3250 ;
+}
+
+.content-embed-d{
+    text-align: center;
+    padding: 20px;
+    background-color: #7077A1;
+    height: 200px;
+    width: 500px;
+    margin: 25px 0 20px 50px;
+    border: 2.5px black solid;
+    display: inline-block;
+    border-radius: 10px;
+    box-shadow: 30px 30px 30px #2D3250 ;
+}
+
+.embed{
+
+    margin: 40px 0 0 20px;
+    width: 350px;
+    height: 500px;
+}
+
+.embedimg{
+    margin: 40px 0 0 0;
+    width: 360px;
+    height: 360px;
+    border: 2.5px solid black;
+}
+
+.ET{
+    font-size: 30px;
+    text-align: left;
+}
+
+.ETXT{
+    text-align: left;
+}
+
+.contact{
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+
+}
+
+.d{
+    display: flex;
+    justify-content: center;
+
+}
+
+.downloadbotton{
+    padding: 10px 25px;
+    background-color: #424769;
+    border: 2px solid black;
+    position: relative;
+    top: 30px;
+}
